@@ -1,4 +1,4 @@
-### Hello 👋
+Im working as Data Scientist in IBM, worked on multiple projects related to python. Exploring Docker, OpenCV currently.
 
 
 - 🔭 I’m currently working on OpenCV-Projects
