@@ -10,7 +10,9 @@
   <img src="banner.png" alt="Yash Jain — Senior Data Engineer" width="100%" />
 </p>
 
-**Senior Data Engineer** in Abu Dhabi. I design and run production pipelines in **Python**, **PySpark**, and **SQL** on **Azure Databricks** and Delta Lake — currently market-data enablement for a global sovereign wealth fund.
+**Senior Data Engineer** in Abu Dhabi. I design and run production pipelines in **Python**, **PySpark**, and **SQL** on **Azure Databricks** and Delta Lake — currently market-data enablement for a premier sovereign wealth fund.
+
+Clients across a wide mix of industries: **Nedbank**, **Air Canada**, **Camping World**, **IFFCO-Tokio**, **Disney**, **TMF**, and now a **premier sovereign wealth fund**.
 
 [Open the portfolio](https://yashj302.github.io) · [View resume (PDF)](https://yashj302.github.io/resume.html) · [LinkedIn](https://www.linkedin.com/in/yashj302/) · [Email](mailto:Yashj302@gmail.com) · +971-503148799
 
@@ -49,7 +51,7 @@ Raw-to-curated ADF batch, Python data-quality framework, Databricks upserts and 
 Medallion batch and streaming on Azure Databricks. 1 million+ records/day. Overnight leak hotfix that saved 95% of ingestion time.
 
 **IBM** — Data Scientist / Data Engineer · 2019 – 2023  
-Chatbots (OpenAI, Watson), Nedbank trade/FX digitization at 92% pairing accuracy, Air Canada pipeline operations.
+Chatbots (OpenAI, Watson), Camping World and IFFCO-Tokio delivery, Nedbank trade/FX digitization at 92% pairing accuracy, Air Canada pipeline operations.
 
 ## Stack
 
