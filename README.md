@@ -36,7 +36,7 @@
 
 ## Experience
 
-**Intuitive.ai · Sovereign wealth fund (ADIA)** — Senior Data Engineer, Market Data Ingestion · Dec 2025 – Present · Abu Dhabi  
+**Intuitive.ai** — Senior Data Engineer, Market Data Ingestion · Dec 2025 – Present · Abu Dhabi  
 Onboarding Bloomberg, Refinitiv, Dasseti, GS-Quant, Barclays Prime Metals, Alexandria Technology, Wolfe Research, and managed corporate actions into the lakehouse. Quality checks in Stonebranch. Datasets representing $1B+ in underlying value.
 
 **HappiestMinds · Disney** — Senior Data Engineer, Identity Consumer Data · Mar 2024 – Nov 2025  
