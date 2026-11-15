@@ -36,8 +36,8 @@
 
 ## Experience
 
-**Intuitive.ai** — Senior Data Engineer, Market Data Ingestion · Dec 2025 – Present · Abu Dhabi  
-Onboarding Bloomberg, Refinitiv, Dasseti, GS-Quant, Barclays Prime Metals, Alexandria Technology, Wolfe Research, and managed corporate actions into the lakehouse. Quality checks in Stonebranch. Datasets representing $1B+ in underlying value.
+**Intuitive.ai - Premier Sovereign Wealth Fund** — Senior Data Engineer, Market Data Ingestion · Dec 2025 – Present · Abu Dhabi  
+Onboarding Bloomberg, Refinitiv, Dasseti, GS-Quant, Barclays, Alexandria Technology, Wolfe Research, and Managed Corporate Actions (S&P), Morgan-Stanley, JP-Morgan and various other vendors data into the lakehouse. Orchestrated in Stonebranch. Datasets representing $1B+ in underlying value.
 
 **HappiestMinds · Disney** — Senior Data Engineer, Identity Consumer Data · Mar 2024 – Nov 2025  
 PySpark ETL of Conviva data into Snowflake on Airflow and Azure Databricks. CCPA/GDPR purge. Account-spinoff detection. **$260K** processing-cost reduction. Delta OPTIMIZE / VACUUM / deletion vectors.
